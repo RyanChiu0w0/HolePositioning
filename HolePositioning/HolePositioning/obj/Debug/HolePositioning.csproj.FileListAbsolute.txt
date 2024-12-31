@@ -1,0 +1,12 @@
+D:\Ryan_Chiu\HolePositioning\HolePositioning\bin\Debug\HolePositioning.exe.config
+D:\Ryan_Chiu\HolePositioning\HolePositioning\bin\Debug\HolePositioning.exe
+D:\Ryan_Chiu\HolePositioning\HolePositioning\bin\Debug\HolePositioning.pdb
+D:\Ryan_Chiu\HolePositioning\HolePositioning\bin\Debug\Open_eVision_NetApi_2_2.dll
+D:\Ryan_Chiu\HolePositioning\HolePositioning\obj\Debug\HolePositioning.csprojAssemblyReference.cache
+D:\Ryan_Chiu\HolePositioning\HolePositioning\obj\Debug\HolePositioning.Form1.resources
+D:\Ryan_Chiu\HolePositioning\HolePositioning\obj\Debug\HolePositioning.Properties.Resources.resources
+D:\Ryan_Chiu\HolePositioning\HolePositioning\obj\Debug\HolePositioning.csproj.GenerateResource.cache
+D:\Ryan_Chiu\HolePositioning\HolePositioning\obj\Debug\HolePositioning.csproj.CoreCompileInputs.cache
+D:\Ryan_Chiu\HolePositioning\HolePositioning\obj\Debug\HolePositioning.csproj.CopyComplete
+D:\Ryan_Chiu\HolePositioning\HolePositioning\obj\Debug\HolePositioning.exe
+D:\Ryan_Chiu\HolePositioning\HolePositioning\obj\Debug\HolePositioning.pdb
